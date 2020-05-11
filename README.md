@@ -3,12 +3,5 @@ The main code of the paper "Legal judgment prediction via multi-perspective bi-f
 See "https://www.ijcai.org/Proceedings/2019/567" for details
 
 Reference:
-@inproceedings{yang2019legal,
-  title={Legal judgment prediction via multi-perspective bi-feedback network},
-  author={Yang, Wenmian and Jia, Weijia and Zhou, Xiaojie and Luo, Yutao},
-  booktitle={Proceedings of the 28th International Joint Conference on Artificial Intelligence},
-  pages={4085--4091},
-  year={2019},
-  organization={AAAI Press}
-}
 
+Yang, W., Jia, W., Zhou, X., & Luo, Y. (2019, August). Legal judgment prediction via multi-perspective bi-feedback network. In Proceedings of the 28th International Joint Conference on Artificial Intelligence (pp. 4085-4091). AAAI Press.
